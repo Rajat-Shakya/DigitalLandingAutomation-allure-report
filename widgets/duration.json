@@ -1,1 +1,1 @@
-[{"uid":"243b2db88878dd08","name":"FLOW_JS_001 - JOB_SEEKER income should generate no offers","time":{"start":1787148074669,"stop":1787148084382,"duration":9713},"status":"passed","severity":"critical"}]
+[{"uid":"e07f41687141e563","name":"FLOW_JS_001 - JOB_SEEKER income should generate no offers","time":{"start":1787148303128,"stop":1787148309887,"duration":6759},"status":"failed","severity":"critical"}]

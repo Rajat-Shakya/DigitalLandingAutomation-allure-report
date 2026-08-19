@@ -1,1 +1,1 @@
-{"name":"timeline","children":[{"name":"FLOW_JS_001 - JOB_SEEKER income should generate no offers","uid":"243b2db88878dd08","status":"passed","time":{"start":1787148074669,"stop":1787148084382,"duration":9713}}],"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc"}
+{"name":"timeline","children":[{"name":"FLOW_JS_001 - JOB_SEEKER income should generate no offers","uid":"e07f41687141e563","status":"failed","time":{"start":1787148303128,"stop":1787148309887,"duration":6759}}],"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc"}
