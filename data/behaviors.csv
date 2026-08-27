@@ -1,7 +1,2 @@
 "BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
-"0","","1","Auth API","6","0","Send OTP","0"
-"0","","1","Auth API","4","0","Check Account","0"
-"0","","5","Auth API","0","0","Validate OTP - Wrong OTP Lifecycle","0"
-"0","","1","Auth API","1","0","Logout","0"
-"0","","0","Auth API","3","0","Validate OTP - Format Validation","0"
-"0","","1","Auth API","0","0","Validate OTP - Successful","0"
+"0","","0","Happy Path","1","0","Onboarding E2E positive flow","0"
