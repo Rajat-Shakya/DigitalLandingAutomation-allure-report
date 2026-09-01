@@ -1,1 +1,1 @@
-{"name":"timeline","children":[{"name":"PD_001 - should complete journey, fill personal details and continue to income","uid":"d84c910e0bcc4adf","status":"passed","time":{"start":1788250424062,"stop":1788250455072,"duration":31010}}],"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc"}
+{"name":"timeline","children":[{"name":"FLOW_001 - should complete positive onboarding flow through offer selection","uid":"cfcdc4c4104e2e6d","status":"passed","time":{"start":1788253570562,"stop":1788253581799,"duration":11237}}],"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc"}
