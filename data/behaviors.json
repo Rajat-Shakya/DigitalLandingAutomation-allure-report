@@ -1,1 +1,1 @@
-{"uid":"b1a8273437954620fa374b796ffaacdd","name":"behaviors","children":[{"name":"PD_001 - should complete journey, fill personal details and continue to offers","uid":"33d0a6159ebf6a49","parentUid":"b1a8273437954620fa374b796ffaacdd","status":"passed","time":{"start":1788265110744,"stop":1788265150590,"duration":39846},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}]}
+{"uid":"b1a8273437954620fa374b796ffaacdd","name":"behaviors","children":[]}
