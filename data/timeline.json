@@ -1,1 +1,1 @@
-{"name":"timeline","children":[{"name":"PD_001 - should complete journey, fill personal details and continue to income","uid":"438b95f2748f9b6d","status":"passed","time":{"start":1788257408258,"stop":1788257440529,"duration":32271}}],"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc"}
+{"name":"timeline","children":[{"name":"PD_001 - should complete journey, fill personal details and continue to income","uid":"f6d4098ec872be17","status":"failed","time":{"start":1788259802486,"stop":1788259832163,"duration":29677}}],"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc"}
