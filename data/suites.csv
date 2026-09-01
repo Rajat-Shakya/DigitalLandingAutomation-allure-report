@@ -1,3 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","962","PD_002 - cleanup test user via admin delete API","Personal Details","2026-09-01","passed","2026-09-01","","Cleanup test user","",""
-"","19501","PD_001 - should complete journey, fill personal details and continue to income","Personal Details","2026-09-01","passed","2026-09-01","","Personal details flow","",""
+"","41316","PD_001 - should complete journey, fill personal details and continue to income","Personal Details","2026-09-01","failed","2026-09-01","","Personal details flow","",""
