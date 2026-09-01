@@ -1,1 +1,1 @@
-[{"uid":"f6d4098ec872be17","name":"PD_001 - should complete journey, fill personal details and continue to income","time":{"start":1788259802486,"stop":1788259832163,"duration":29677},"status":"failed","severity":"normal"}]
+[{"uid":"fc25734a8a21451f","name":"PD_001 - should complete journey, fill personal details and continue to income","time":{"start":1788260894252,"stop":1788260929383,"duration":35131},"status":"passed","severity":"normal"}]
