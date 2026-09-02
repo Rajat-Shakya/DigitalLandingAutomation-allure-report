@@ -1,1 +1,1 @@
-[{"values":["UAT"],"name":"Environment"},{"values":["https://dl-stg.finj.in"],"name":"UI.Url"},{"values":["https://dl-stg-api.finj.in"],"name":"API.Url"},{"values":["STAGE_API"],"name":"ENV.Switch"}]
+[{"values":["PROD"],"name":"Environment"},{"values":["https://finj.in"],"name":"UI.Url"},{"values":["https://dl-api.finj.in"],"name":"API.Url"},{"values":["PROD_API"],"name":"ENV.Switch"}]
