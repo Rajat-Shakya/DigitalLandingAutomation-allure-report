@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","35097","IC_001 - should complete journey, select job seeker and verify empty offers","Income","2026-09-02","passed","2026-09-02","","Income flow","",""
+"","37160","IC_001 - should complete journey, select job seeker and verify empty offers","Income","2026-09-02","passed","2026-09-02","","Income flow","",""
