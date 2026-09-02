@@ -1,1 +1,1 @@
-[]
+[{"uid":"17727efb95e789be","name":"PD_001 - should complete journey, fill personal details and continue to offers","time":{"start":1788321380001,"stop":1788321416252,"duration":36251},"status":"passed","severity":"normal"},{"uid":"a2960b9e3cd0ffa3","name":"PD_002 - should complete journey as JobSeeker and verify empty offers","time":{"start":1788321418683,"stop":1788321451673,"duration":32990},"status":"failed","severity":"normal"}]

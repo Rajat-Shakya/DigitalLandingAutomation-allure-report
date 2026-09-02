@@ -1,1 +1,1 @@
-{"name":"timeline","children":[],"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc"}
+{"name":"timeline","children":[{"name":"PD_002 - should complete journey as JobSeeker and verify empty offers","uid":"a2960b9e3cd0ffa3","status":"failed","time":{"start":1788321418683,"stop":1788321451673,"duration":32990}},{"name":"PD_001 - should complete journey, fill personal details and continue to offers","uid":"17727efb95e789be","status":"passed","time":{"start":1788321380001,"stop":1788321416252,"duration":36251}}],"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc"}

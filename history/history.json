@@ -1,1 +1,1 @@
-{}
+{"eada4cc91626ba7ddc5aa88d66d90747":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"17727efb95e789be","status":"passed","time":{"start":1788321380001,"stop":1788321416252,"duration":36251}}]},"935cc9f535b2f1faf49e8770bac15dd4":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"a2960b9e3cd0ffa3","status":"failed","statusDetails":"Could not resolve to a known onboarding stage: https://dl-stg.finj.in/otp","time":{"start":1788321418683,"stop":1788321451673,"duration":32990}}]}}

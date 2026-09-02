@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","36251","PD_001 - should complete journey, fill personal details and continue to offers","Personal Details","2026-09-02","passed","2026-09-02","","Personal details flow","",""
+"","32990","PD_002 - should complete journey as JobSeeker and verify empty offers","Personal Details","2026-09-02","failed","2026-09-02","","Personal details flow","",""
