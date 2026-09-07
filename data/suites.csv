@@ -1,2 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","36718","PF_001 - should complete onboarding, open profile and verify profile details","Profile","2026-09-07","passed","2026-09-07","","Profile flow","",""
+"","18827","should complete OTP and verify PAN","","2026-09-07","passed","2026-09-07","","PAN Verification","",""
+"","67355","should show errors for invalid PAN format and already registered PAN","","2026-09-07","failed","2026-09-07","","PAN Verification","",""
