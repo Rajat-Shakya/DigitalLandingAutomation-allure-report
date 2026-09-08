@@ -1,3 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","21132","PD_001 - should complete journey, fill personal details and continue to offers","Personal Details","2026-09-08","failed","2026-09-08","","Personal details flow","",""
-"","24125","PD_002 - should show PAN name mismatch error when name does not match PAN","Personal Details","2026-09-08","failed","2026-09-08","","Personal details name mismatch","",""
+"","42281","PF_001 - should complete onboarding, open profile and verify profile details","Profile","2026-09-08","passed","2026-09-08","","Profile flow","",""
