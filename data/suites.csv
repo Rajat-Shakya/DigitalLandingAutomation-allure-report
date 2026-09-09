@@ -1,6 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","14981","FINJ_SC_OTP_002 - Verify decreasing attempts message on wrong OTP (3→2→1→max)","","2026-09-09","passed","2026-09-09","","OTP Debug — Single OTP Send (FINJ_SC_OTP_002/003/004/005/007)","",""
-"","3195","FINJ_SC_OTP_007 - Click Change Number on OTP screen should route back to /login","","2026-09-09","passed","2026-09-09","","OTP Debug — Single OTP Send (FINJ_SC_OTP_002/003/004/005/007)","",""
-"","36","FINJ_SC_OTP_004 - Verify Resend OTP countdown is displayed after OTP generation","","2026-09-09","passed","2026-09-09","","OTP Debug — Single OTP Send (FINJ_SC_OTP_002/003/004/005/007)","",""
-"","55097","FINJ_SC_OTP_005 - Verify OTP input fields are cleared after OTP resend","","2026-09-09","passed","2026-09-09","","OTP Debug — Single OTP Send (FINJ_SC_OTP_002/003/004/005/007)","",""
-"","27","FINJ_SC_OTP_003 - Verify registered mobile number is displayed correctly on OTP screen","","2026-09-09","passed","2026-09-09","","OTP Debug — Single OTP Send (FINJ_SC_OTP_002/003/004/005/007)","",""
+"","36332","PD_001 - should complete journey, fill personal details and continue to offers","Personal Details","2026-09-09","passed","2026-09-09","","Personal details flow","",""
+"","34954","PD_002 - should show PAN name mismatch error when name does not match PAN","Personal Details","2026-09-09","passed","2026-09-09","","Personal details name mismatch","",""
