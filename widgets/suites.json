@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"7401a688339d5b358289996f300eed3e","name":"Regression Suite","statistic":{"failed":1,"broken":0,"skipped":0,"passed":36,"unknown":0,"total":37}}]}
+{"total":1,"items":[{"uid":"a0ad603fee9a0e6a59c74ed121af1e42","name":"OTP Debug — Single OTP Send (FINJ_SC_OTP_002/003/004/005/007)","statistic":{"failed":0,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":5}}]}
