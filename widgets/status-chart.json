@@ -1,1 +1,1 @@
-[{"uid":"574e904373000e3a","name":"FLOW_JS_001 - JOB_SEEKER income should generate no offers","time":{"start":1789022625862,"stop":1789022635784,"duration":9922},"status":"passed","severity":"critical"}]
+[{"uid":"d7f00dfabb0b99cc","name":"FLOW_001 - should complete positive onboarding flow through offer selection","time":{"start":1789024148788,"stop":1789024157829,"duration":9041},"status":"passed","severity":"blocker"}]
