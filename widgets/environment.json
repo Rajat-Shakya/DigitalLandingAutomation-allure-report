@@ -1,1 +1,1 @@
-[{"values":["UAT"],"name":"Environment"},{"values":["https://dl-stg.finj.in"],"name":"UI.Url"},{"values":["https://dl-stg-api.finj.in"],"name":"API.Url"},{"values":["(default staging)"],"name":"ENV.Switch"}]
+[{"values":["UAT"],"name":"Environment"},{"values":["https://dl-stg.finj.in"],"name":"UI.Url"},{"values":["https://dl-stg-api.finj.in"],"name":"API.Url"},{"values":["STAGE_UI"],"name":"ENV.Switch"}]
