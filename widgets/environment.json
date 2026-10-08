@@ -1,1 +1,1 @@
-[{"values":["PROD"],"name":"Environment"},{"values":["https://finj.in"],"name":"UI.Url"},{"values":["https://dl-api.finj.in"],"name":"API.Url"},{"values":["PROD_UI"],"name":"ENV.Switch"}]
+[{"values":["PROD"],"name":"Environment"},{"values":["https://finj.in"],"name":"UI.Url"},{"values":["https://dl-api.finj.in"],"name":"API.Url"},{"values":["PROD_API"],"name":"ENV.Switch"}]
